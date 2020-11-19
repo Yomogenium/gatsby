@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'yomoberry`s 脳死ブログ',
+    title: 'yomoberry`s testsite',
     author: {
       name: `yomoberry`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `そこのお前、お前やお前！`,
+    description: `なし`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `Doma_Ha_Sue`,
