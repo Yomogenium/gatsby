@@ -62,7 +62,7 @@ module.exports = {
       options: {
         name: `yomoberry`,
         short_name: `yomoberry`,
-        start_url: `/`,
+        start_url: `gatsby/`,
         background_color: `#f5f4f2`,
         theme_color: `#b462ff`,
         display: `minimal-ui`,
